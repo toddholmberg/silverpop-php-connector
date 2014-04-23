@@ -1,7 +1,11 @@
 silverpop-php-connector
 =======================
 
-A connector SDK library for applications integrating with Silverpop, including the Universal Behavior API.
+A fork of the connector SDK library for applications integrating with Silverpop, including the Universal Behavior API. 
+
+The limits of my contribution
+-----------------------------
+The intention here is to add namespacing and composer-friendliness. All of the real work was done by https://github.com/mrmarkfrench, I am just making it work with my project. I don't think this update is yet fork-worthy.
 
 Latest Version
 --------------
