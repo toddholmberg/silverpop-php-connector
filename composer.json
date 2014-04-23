@@ -1,5 +1,5 @@
 {
-	"name": "tadev/silverpop-php-connector",
+	"name": "toddholmberg/silverpop-php-connector",
 	"autoload": {
 		"psr-0": {
 			"Tadev\\": "src/"
